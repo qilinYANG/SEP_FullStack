@@ -180,7 +180,17 @@ FROM [Order Details] AS od JOIN Products ON od.ProductID = Products.ProductID JO
 JOIN Suppliers on dt.SupplierID = Suppliers.SupplierID JOIN Shippers ON Shippers.ShipperID = dt.ShipperID
 -- 24.  Display the products order each day. Show Order date and Product Name.
 
+
+SELECT Orders.OrderDate,Products.ProductName
+FROM [Order Details] AS od JOIN Products ON od.ProductID = Products.ProductID JOIN Orders ON Orders.OrderID = od.OrderID
+ORDER BY Orders.OrderDate
+
 -- 25.  Displays pairs of employees who have the same job title.
+
+SELECT Title,COUNT(*) AS Pairs
+FROM Employees
+GROUP BY Title
+
 
 -- 26.  Display all the Managers who have more than 2 employees reporting to them.
 
