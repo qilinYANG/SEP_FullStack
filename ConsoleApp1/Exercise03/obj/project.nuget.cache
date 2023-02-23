@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgLlIwZK7BRjqZ77qGk8BDJPELQKUVPkwTS8mRKMK/b6pKkAMAjNWBX6pbwb+DdeAmiimxjb8hFlsHBQvhVHlw==",
+  "success": true,
+  "projectFilePath": "/Users/yangqilin/Desktop/SEP(Java)/SEP_FullStack/ConsoleApp1/Exercise03/Assign1.csproj",
+  "expectedPackageFiles": [
+    "/Users/yangqilin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/yangqilin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.12/microsoft.netcore.app.host.osx-arm64.6.0.12.nupkg.sha512",
+    "/Users/yangqilin/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

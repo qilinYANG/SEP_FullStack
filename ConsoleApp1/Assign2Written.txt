@@ -1,0 +1,23 @@
+﻿1. When to use String vs. StringBuilder in C# ?
+StringBuilder is better option for concatenating multiple strings together in a loop
+String is immutable type, use to store some static data
+
+2. What is the base class for all arrays in C#?
+
+Array Class
+
+3. How do you sort an array in C#?
+
+Array.Sort()
+
+4. What property of an array object can be used to get the total number of elements in
+an array?
+Length method
+
+5. Can you store multiple data types in System.Array?
+
+No
+
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+
+Array.Copyto copy the value from one array to another, Array.Clone() create an new identical array

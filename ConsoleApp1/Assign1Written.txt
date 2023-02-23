@@ -1,0 +1,93 @@
+﻿
+1. What type would you choose for the following “numbers”?
+A person’s telephone number
+String
+A person’s height
+Double
+A person’s age
+uint
+A person’s gender (Male, Female, Prefer Not To Answer)
+Byte
+A person’s salary
+Uint
+A book’s ISBN
+String
+A book’s price
+float
+A book’s shipping weight
+double
+A country’s population
+ulong
+The number of stars in the universe
+ulong
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+ushort
+2. What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+1.Value type directly hold the value, while reference type will hold the memory address for this value
+2.value Type are stored in stack memory and reference type are stored in heap memory
+3.Value type will not be collected by garbage collector, while reference type will be collected by garbage collector
+
+Boxing is the converstion from value type to reference type, unboxing is the opposite
+3. What is meant by the terms managed resource and unmanaged resource in .NET
+
+Managed resources mean heap memory controlled by GC, While unmanaged one are those heap memory not directly controlled by GC. Ususally need to call Dispose()
+to release memory.
+
+4. Whats the purpose of Garbage Collector in .NET?
+
+GC is to automatically manage the memory used by .NET applications, freeing up memory that is no longer being used so it can be reused by the
+application or other processes running on the computer. GC helps to avoid memory-related errors such as memory leaks,where memory is not released
+properly by the application. This can help developer write more reliable and stable application.
+
+
+
+Test your Knowledge
+1. What happens when you divide an int variable by 0?
+
+compiler error
+
+
+2. What happens when you divide a double variable by 0?
+
+infinity output
+
+
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+range?
+
+compiler error
+
+
+4. What is the difference between x = y++; and x = ++y;?
+
+++y is prefix, which adds the value before processing the data, y++ is postfix which process the data first before adds the value
+
+5. What is the difference between break, continue, and return when used inside a loop
+statement?
+
+ break will jump out of loop and executing rest of the program
+ contunue will keep iterating the loop
+ return will terminate the program
+
+6. What are the three parts of a for statement and which of them are required?
+
+initialization, ending condition, increment
+
+7. What is the difference between the = and == operators?
+
+'=' is for assignment, '==' is boolean comparison
+
+8. Does the following statement compile? for ( ; true; ) ;
+
+YES, It does compile
+
+9. What does the underscore _ represent in a switch expression?
+
+similar to using 'default'
+
+10. What interface must an object implement to be enumerated over by using the foreach
+statement?
+IEnumerable
+

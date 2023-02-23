@@ -1,0 +1,15 @@
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.csproj.AssemblyReference.cache
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.AssemblyInfoInputs.cache
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.AssemblyInfo.cs
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.csproj.CoreCompileInputs.cache
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/bin/Debug/net6.0/Assign1
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/bin/Debug/net6.0/Assign1.deps.json
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/bin/Debug/net6.0/Assign1.runtimeconfig.json
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/bin/Debug/net6.0/Assign1.dll
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/bin/Debug/net6.0/Assign1.pdb
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.dll
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/refint/Assign1.dll
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.pdb
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/Assign1.genruntimeconfig.cache
+/Users/yangqilin/Projects/ConsoleApp1/Exercise03/obj/Debug/net6.0/ref/Assign1.dll
