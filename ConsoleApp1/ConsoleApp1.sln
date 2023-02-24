@@ -8,11 +8,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Assign1Written.txt = Assign1Written.txt
 		Assign2Written.txt = Assign2Written.txt
 		ConsoleApp1.sln = ConsoleApp1.sln
+		Assign3Written.txt = Assign3Written.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assign1", "Exercise03\Assign1.csproj", "{D3177419-6636-44BE-A077-EE785F7252BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assign2", "Assign2\Assign2.csproj", "{E9288348-B181-4772-B310-E4F161676D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assign3", "Assign3\Assign3.csproj", "{53955CFE-16A4-4F97-AC25-C22B47D3C9C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +31,10 @@ Global
 		{E9288348-B181-4772-B310-E4F161676D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9288348-B181-4772-B310-E4F161676D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9288348-B181-4772-B310-E4F161676D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53955CFE-16A4-4F97-AC25-C22B47D3C9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53955CFE-16A4-4F97-AC25-C22B47D3C9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53955CFE-16A4-4F97-AC25-C22B47D3C9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53955CFE-16A4-4F97-AC25-C22B47D3C9C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
