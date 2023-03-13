@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Assign3
 {
-	public class Department
+	public class Department : IDepartmentService
 	{
 		List<Course> providedCourse;
 		int budget;
@@ -12,6 +12,11 @@ namespace Assign3
 			this.head = head;
 			this.providedCourse = providedCourse;
 		}
-	}
+
+        public void addCourse(Course course)
+        {
+			providedCourse.Add(course);
+        }
+    }
 }
 

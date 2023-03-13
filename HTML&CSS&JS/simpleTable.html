@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>My Website</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  </head>
+  <style>
+      .column {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+  </style>
+  <body>
+    <main>
+        <div class = "row">
+        <div class="column">
+            <img  width="160" height="150" src="https://antra.com/wp-content/uploads/2017/10/if_Graph-Magnifier_379472.png">
+            <h1>Business Advisory Services</h1>
+          
+            <p>Our business advisory services assist our clients to align IT capabilities with 
+                their business needs to drive growth and productivity. Hence deriving a greater value 
+                from IT! We continually seek better ways of collaborating with our clients, work more 
+                cohesively to understand their business issues.</p>
+
+        </div>
+        <div class="column">
+            <img  width="160" height="150" src="https://antra.com/wp-content/uploads/2017/10/if_Studio_1562691-150x150.png">
+
+            <h1>Technology Services</h1>
+          
+            <p>Harness the power of emerging technologies while leveraging most out of the legacy IT. 
+                Antra offers full spectrum of technology services for business to achieve its business goals .
+                Our differentiation starts with core fundamental elements required for your technology enablement.</p>
+        </div>
+        <div class="column">
+            <img width="160" height="150" src="https://antra.com/wp-content/uploads/2017/10/if_law_iconsArtboard_1_copy_3_2393031-150x150.png">
+
+            <h1>Professional Services</h1>
+          
+            <p>Our motto is to bridge skill gap, and foster on agile 
+                technologies to support growth of various organizations!
+                 Antra’s full range of workforce solutions and service delivery
+                  models equips our clients with the right people, skills and competencies required to get IT done.</p>
+        </div>
+    </div>
+    </main>
+	<script src="index.js"></script>
+  </body>
+</html>
